@@ -1,14 +1,14 @@
-//  var a=800
+ var a=800
 
-//  if(true){
-//     let a=200
-//     const b=400
-//      c=100
-//      console.log("inner",a)
-// }
-// console.log(a);
-// // console.log(b);
-// console.log(c);
+ if(true){
+    let a=200
+    const b=400
+     c=100
+     console.log("inner",a)
+}
+console.log(a);
+// console.log(b);
+console.log(c);
 
 function one(){
     const username="rahul"
@@ -28,7 +28,7 @@ if(true){
     const username="rahul"
     if(username==="rahul"){
       const website="youtube"
-    //   console.log(username+website);  
+       console.log(username+website);  
 
     }
     // console.log(website);
